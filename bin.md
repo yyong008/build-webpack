@@ -1,0 +1,76 @@
+# bin命令
+
+- [acorn](https://www.npmjs.com/package/acorn) ===> A tiny, fast JavaScript parser written in JavaScript.
+- [ansi-html](https://www.npmjs.com/package/ansi-html) ===> An elegant lib that converts the chalked (ANSI) text to HTML.
+- [atob](https://www.npmjs.com/package/atob) ===> Uses Buffer to emulate the exact functionality of the browser's atob.
+- [autoprefixer](https://www.npmjs.com/package/autoprefixer) ===> PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values from Can I Use. It is recommended by Google and used in Twitter and Alibab
+- [babylon](https://www.npmjs.com/package/babylon) ===> Babylon is a JavaScript parser used in Babel.
+- [browserslist](https://www.npmjs.com/package/browserslist) ===> The config to share target browsers and Node.js versions between different front-end tools.
+- [cross-env](https://www.npmjs.com/package/cross-env) ===> Run scripts that set and use environment variables across platforms
+- [cross-env-shell](https://www.npmjs.com/package/cross-env-shell) ===> Run scripts that set and use environment variables across platforms
+- [css-blank-pseudo](https://www.npmjs.com/package/css-blank-pseudo) ===>CSS Blank Pseudo lets you style form elements when they are empty, following the Selectors Level 4 specification.
+- [css-has-pseudo](https://www.npmjs.com/package/css-has-pseudo) ===>CSS Has Pseudo lets you style elements relative to other elements in CSS, following the Selectors Level 4 specification.
+- [css-prefers-color-scheme](https://www.npmjs.com/package/css-prefers-color-scheme) ===>Prefers Color Scheme lets you use light and dark color schemes in all browsers, following the Media Queries specification
+- [cssesc](https://www.npmjs.com/package/cssesc) ===> A JavaScript library for escaping CSS strings and identifiers while generating the shortest possible ASCII-only output.
+- [detect](https://www.npmjs.com/package/detect) ===> An npm package for walking a project directory (tree of files) and determining which npm packages are depended on by the project files. It will also generate a sample dependencies section suited for inclusion in the project's package.json file (see npm help json for details).
+- [detect-indent](https://www.npmjs.com/package/detect-indent) ===> Pass in a string of any kind of text and get the indentation.
+- [detect-libc](https://www.npmjs.com/package/detect-libc) ===> Node.js module to detect the C standard library (libc) implementation family and version in use on a given Linux system.
+- [detect-port](https://www.npmjs.com/package/detect-port) ===> Node.js implementation of port detector
+- [errno](https://www.npmjs.com/package/errno) ===> Better libuv/Node.js/io.js error handling & reporting. Available in npm as errno.
+- [escodegen](https://www.npmjs.com/package/escodegen) ===> Escodegen (escodegen) is an ECMAScript (also popularly known as JavaScript) code generator from Mozilla's Parser API AST. See the online generator for a demo.
+- [esgenerate](https://www.npmjs.com/package/esgenerate) ===> esgenerate
+- [eslint](https://www.npmjs.com/package/eslint) ===> ESLint is a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code.
+- [eslint-config-prettier-check](https://www.npmjs.com/package/errno) ===> Better libuv/Node.js/io.js error handling & reporting. Available in npm as errno.
+- [esparse](https://www.npmjs.com/package/esparse) ===> esparse is a parser for the ECMAScript programming language, written in JavaScript. Given a string representing a JavaScript program, it will output an abstract syntax tree representing that program.
+- [esvalidate](https://www.npmjs.com/package/esvalidate) ===> Handlebars.js is an extension to the Mustache templating language created by Chris Wanstrath. Handlebars.js and Mustache are both logicless templating languages that keep the view and the code separated like we all know they should be.
+- [handlebars](https://www.npmjs.com/package/handlebars) ===> A command line interface and npm package for ESValidate - a JavaScript validator using Esprima.
+- [he](https://www.npmjs.com/package/he) ===> he (for “HTML entities”) is a robust HTML entity encoder/decoder written in JavaScript. It supports all standardized named character references as per HTML, handles ambiguous ampersands and other edge cases just like a browser would, has an extensive test suite, and — contrary to many other JavaScript solutions — he handles astral Unicode symbols just fine. An online demo is available.
+- [html-minifier](https://www.npmjs.com/package/html-minifier) ===> HTMLMinifier is a highly configurable, well-tested, JavaScript-based HTML minifier.
+- [import-local-fixture](https://www.npmjs.com/package/import-local-fixture) ===> import-local-fixture
+- [in-install](https://www.npmjs.com/package/in-install) ===> in-install
+- [in-in-publish](https://www.npmjs.com/package/in-in-publish) ===> Detect if we were run as a result of npm publish. This is intended to allow you to easily have prepublish lifecycle scripts that don't run when you run npm install.
+- [is-ci](https://www.npmjs.com/package/is-ci) ===> 如果当前环境是Continuous Integration服务器，则返回true。
+- [jest-runtime](https://www.npmjs.com/package/jest) ===> Delightful JavaScript Testing
+- [jest](https://www.npmjs.com/package/jest-runtime) ===> jest-runtime
+- [js-yaml](https://www.npmjs.com/package/js-yaml) ===> This is an implementation of YAML, a human-friendly data serialization language. Started as PyYAML port, it was completely rewritten from scratch. Now it's very fast, and supports 1.2 spec.
+- [jsesc](https://www.npmjs.com/package/jsesc) ===> Given some data, jsesc returns a stringified representation of that data.
+- [json5](https://www.npmjs.com/package/json5) ===> The JSON5 Data Interchange Format (JSON5) is a superset of JSON that aims to alleviate some of the limitations of JSON by expanding its syntax to include some productions from ECMAScript 5.1.
+- [loose-envify](https://www.npmjs.com/package/loose-envify) ===> Fast (and loose) selective process.env replacer using js-tokens instead of an AST. Works just like envify but much faster.
+- [miller-rabin](https://www.npmjs.com/package/miller-rabin) ===> Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+- [mime](https://www.npmjs.com/package/mime) ===> A comprehensive, compact MIME type module.
+- [mustache](https://www.npmjs.com/package/mustache) ===> mustache.js is an implementation of the mustache template system in JavaScript.
+- [mkdirp](https://www.npmjs.com/package/mkdirp) ===> Like mkdir -p, but in node.js!
+- [multicast-dns](https://www.npmjs.com/package/multicast-dns) ===> Low level multicast-dns implementation in pure javascript
+- [needle](https://www.npmjs.com/package/needle) ===> LThe leanest and most handsome HTTP client in the Nodelands.
+- [node-gyp](https://www.npmjs.com/package/node-gyp) ===> node-gyp is a cross-platform command-line tool written in Node.js for compiling native addon modules for Node.js. It bundles the gyp project used by the Chromium team and takes away the pain of dealing with the various differences in build platforms. It is the replacement to the node-waf program which is removed for node v0.8. If you have a native addon for node that still has a wscript file, then you should definitely add a binding.gyp file to support the latest versions of node.
+- [node-pre-gyp](https://www.npmjs.com/package/node-pre-gyp) ===> node-pre-gyp stands between npm and node-gyp and offers a cross-platform method of binary deployment.
+- [nodemon](https://www.npmjs.com/package/nodemon) ===> nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
+- [nodetouch](https://www.npmjs.com/package/nodetouch) ===> nodetouch
+- [nopt](https://www.npmjs.com/package/nopt) ===> If you want to write an option parser, and have it be good, there are two ways to do it. The Right Way, and the Wrong Way.
+- [nuxt](https://www.npmjs.com/package/nuxt) ===> Vue.js Meta Framework to create complex, fast & universal web applications quickly.
+- [nuxt-cli](https://www.npmjs.com/package/nuxt-cli) ===> CLI for Nuxt.js projects
+- [opencollective-cli](https://www.npmjs.com/package/opencollective-cli) ===> Open Collective的命令行界面
+- [opener](https://www.npmjs.com/package/opener) ===> That is, in your desktop environment. This will make actual windows pop up
+- [parser](https://www.npmjs.com/package/parser) ===> This module is basically a class that provides general mechanisms for parsing strings. It works with my tokenizer although it can be used with pretty much anything emitting tokens the same way. The parser works with a queue of functions. For each token the next function in the queue is called.
+- [prettier](https://www.npmjs.com/package/prettier) ===> Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+- [rc](https://www.npmjs.com/package/rc) ===>  The non-configurable configuration loader for lazy people.
+- [react-scripts](https://www.npmjs.com/package/react-scripts) ===>  This package includes scripts and configuration used by Create React App.
+- [regexp-tree](https://www.npmjs.com/package/regexp-tree) ===>  Regular expressions processor in JavaScript
+- [regjsparser](https://www.npmjs.com/package/regjsparser) ===>  Parsing the JavaScript's RegExp in JavaScript.
+- [rimraf](https://www.npmjs.com/package/rimraf) ===>  The UNIX command rm -rf for node.
+- [sane](https://www.npmjs.com/package/sane) ===>  I've been driven to insanity by node filesystem watcher wrappers. Sane aims to be fast, small, and reliable file system watcher. It does that by:
+- [sassgraph](https://www.npmjs.com/package/sassgraph) ===>  sassgraph
+- [semver](https://www.npmjs.com/package/semver) ===>  semver(1) -- The semantic versioner for npm
+- [sha.js](https://www.npmjs.com/package/sha.js) ===> Node style SHA on pure JavaScript.
+- [sshpk](https://www.npmjs.com/package/sshpk) ===> Parse, convert, fingerprint and use SSH keys (both public and private) in pure node -- no ssh-keygen or other external dependencies.
+- [sshpk-agent](https://www.npmjs.com/package/sshpk-agent) ===> A library for using the ssh-agent protocol, written to leverage the modern node Streams API and use sshpk objects. Supports most client operations (including key add/remove), but agent support is coming. Re-uses socket connections where possible for lower latency operation.
+- [strip-indent](https://www.npmjs.com/package/sshpk-agent) ===> Strip leading whitespace from each line in a string
+- [svgo](https://www.npmjs.com/package/svgo) ===> SVG Optimizer is a Nodejs-based tool for optimizing SVG vector graphics files.
+- [terser](https://www.npmjs.com/package/terser) ===> JavaScript parser, mangler/compressor and beautifier toolkit for ES6+
+- [uglifyjs](https://www.npmjs.com/package/uglifyjs) ===> uglifyjs
+- [uuid](https://www.npmjs.com/package/uuid) ===> Simple, fast generation of RFC4122 UUIDS.
+- [@vue/cli-service](https://www.npmjs.com/package/@vue/cli-service) ===> service for vue-cli
+- [webpack](https://www.npmjs.com/package/webpack) ===> webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
+- [webpack-bundle-analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer) ===> Visualize size of webpack output files with an interactive zoomable treemap.
+- [webpack-dev-server](https://www.npmjs.com/package/webpack-dev-server) ===> Like the unix which utility.
+- [which](https://www.npmjs.com/package/which) ===> Use webpack with a development server that provides live reloading. This should be used for development only.
