@@ -58,4 +58,6 @@ var argv.keys = [ '_',
 
 值的注意的是： 这里的环境参数，env和mode 都可通过 scripts 中要运行的参数来确定
 
+mode 为development 的时候 ，我们默认设置 process.env.NODE_ENV 来处理在 DefinePlugin 来设置开发模式。
 
+mode 为 production 的时候， 我们默认设置 process.env.NODE_ENV 来处理在 DefinePlugin 来设置开发模式。
