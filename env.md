@@ -14,6 +14,10 @@ env 是环境，在 webpack 中添加的配置，一般的是指定当前的环�
 
 在 webpack 中我们区分开发环境和生产环境： 输出一个函数
 
+### 判断方式
+
+本质上是字符串，区别就是使用 --mode 还是 --env 的字符串，webpack 中介绍的使用的mode 的字符串
+
 ```js
 "script": {
   "build": "webpack --config webpack.config.js --mode production --env production"

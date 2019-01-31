@@ -2,6 +2,36 @@
 
 以 webpack 构建 react，vue 项目
 
+## webpack 配置方法
+
+> 将一些路径配置成常量， 并且单独拿出来，这样更加的便于维护！，一切以可维护性为目标的处理！
+
+1.一个文件配置开发和生产环境的webpack项
+2.将webpack配置项分成基本配置，开发配置，生成配置
+
+```bash
+.
+└── config
+    ├── webpack.common.js
+    ├── webpack.development.js
+    ├── webpack.parts.js
+    └── webpack.production.js
+```
+3.将webpack的配置项模块化，模块化的配置的各个配置项！！！
+
+```bash
+.
+└── config
+    ├── parts
+    │   ├── devserver.js
+    ...
+    │   ├── index.js
+    │   └── javascript.js
+    └── ...
+```
+
+> 总体的配置，我们使用 webpack-merge 来进行 webpack 的配置项。
+
 ## 基本安装
 
 - webpack
