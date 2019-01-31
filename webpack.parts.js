@@ -15,7 +15,6 @@ exports.loadCSS = ({ include, exclude } = {}) => ({
         test: /\.css$/,
         include,
         exclude,
-
         use: ['style-loader', 'css-loader']
       }
     ]
