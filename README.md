@@ -2,6 +2,19 @@
 
 以 webpack 构建 react，vue 项目
 
+## 使用 nodemon 监听 webpack 配置项
+
+我们在开发的时候，有时候需要改进webpack的配置，这个时候我们使用nodemon来监听这些配置项的变化
+
+简单的nodemon的命令行配置，结合webpack 如何配置在一起：
+
+```json
+"script": {
+  "start": "nodemon --watch webpack.config.js --exec \"webpack-dev-server --mode production\""
+}
+
+```
+e
 ## webpack 配置方法
 
 > 将一些路径配置成常量， 并且单独拿出来，这样更加的便于维护！，一切以可维护性为目标的处理！
