@@ -1,4 +1,4 @@
-# 学会写script 的配置项
+# 学会写 script 的配置项
 
 ```bash
 npm run start # npm start
